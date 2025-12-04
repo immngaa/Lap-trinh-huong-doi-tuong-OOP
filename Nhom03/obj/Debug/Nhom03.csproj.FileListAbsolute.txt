@@ -1,0 +1,957 @@
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\MI1 HUST\OOP 20241\CK\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+D:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+D:\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+D:\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+D:\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+D:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+D:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+D:\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+D:\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+D:\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+D:\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom03\Nhom03\bin\Debug\stdole.dll
+D:\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+D:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+D:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+D:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+D:\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+D:\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+D:\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+D:\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+D:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+D:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+D:\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+D:\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+D:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+D:\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+D:\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+D:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+D:\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+E:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+E:\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+E:\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+E:\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+E:\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+E:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+E:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+E:\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+E:\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+E:\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+E:\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+E:\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+E:\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+E:\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+E:\Nhom03\Nhom03\bin\Debug\stdole.dll
+E:\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+E:\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+E:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+E:\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+E:\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+E:\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+E:\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+E:\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+E:\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+E:\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+E:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+E:\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+C:\Users\Admin\Downloads\Nhom03\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormPhanQuyen.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\stdole.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+D:\New folder (4)\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\stdole.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormPhanQuyen.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+D:\oop\New folder\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Nhom03.exe.config
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Nhom03.exe
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Nhom03.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\MimeKit.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\PdfSharpCore.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\MimeKit.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormHieuSuatNV.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormMucDoHaiLong.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.ChartFormPhanTichXHHV.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangXuat.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangKy.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.FormDangNhap.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.FormGiaoDienChinh.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.FormQuenMatKhau.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuSuatNhanVien.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanhBaoTri.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_XuLyTuVan.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.Properties.Resources.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_BaoHanh.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHThanThiet.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKhuyenMai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LichSuTuVan.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_LoaiSanPham.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_NhomKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDanhGiaKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinDonHang.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinNhanVien.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongTinSanPham.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanHoiKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTinhHinhKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanKhieuNai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ChatboxHoTro.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TheoDoiTuVan.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_TiepNhanTuVan.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_CTKHTTDoiDiem.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_HieuQuaCTKhuyenMai.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_KhieuNaiCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_MucDoHaiLongCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_PhanTichHVXHCuaKH.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.UC_ThongKeDoanhThu.resources
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.csproj.Up2Date
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.exe
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.pdb
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Nhom03.exe.manifest
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\bin\Debug\Nhom03.application
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.exe.manifest
+C:\Users\Admin\Downloads\Nhom03 4\Nhom03\Nhom03\obj\Debug\Nhom03.application
